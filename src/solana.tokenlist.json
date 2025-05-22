@@ -1,1 +1,14 @@
-
+  },
+  {
+    "chainId": 101,
+    "address": "3rmvyYaSfbrDuMMBsxjam7PiDR2dmUJfhxRxxyLX1wza",
+    "symbol": "CGN",
+    "name": "ChatGains",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/chatgains/token-list/main/assets/mainnet/3rmvyYaSfbrDuMMBsxjam7PiDR2dmUJfhxRxxyLX1wza/logo.png",
+    "tags": ["meme", "airdrop"],
+    "extensions": {
+      "website": "https://chatgains.app",
+      "twitter": "https://twitter.com/ChatGainsCGN"
+    }
+  }
