@@ -1,0 +1,15 @@
+{
+  "name": "ChatGains",
+  "symbol": "CGN",
+  "description": "ChatGains (CGN) is a community-powered meme token celebrating conversations and gains in the crypto world.",
+  "image": "https://raw.githubusercontent.com/chatgains/token-list/main/assets/mainnet/3rvmyYaSfbrDuMMBsxjam7PiDR2dmUJfhxRxxyLX1wza/logo.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "3rvmyYaSfbrDuMMBsxjam7PiDR2dmUJfhxRxxyLX1wza",
+        "share": 100
+      }
+    ]
+  }
+}
